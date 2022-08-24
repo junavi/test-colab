@@ -1,4 +1,4 @@
-# test-colab and Jupiter Notebook
+# test-colab and Jupyter Notebook
 
 Welcome to Python Basics for Data Science!
 We are glad you are taking this course! The team spent a lot of time developing this Python Basics for Data Science course so everyone can learn to program with this incredibly powerful language.
